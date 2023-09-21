@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.Specialized;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,11 +10,16 @@ namespace week_1
     internal class Searching
     {
 
+
+        public int count { get; set; }
         // Linear Algorithm
         public int Linear(int[] array, int number)
         {
+            count = 0;
+
             for(int i = 0; i < array.Length; i++)
             {
+                count++;
                 if(array[i] == number)
                 {
                     return i;
@@ -25,7 +31,7 @@ namespace week_1
 
         public int random(int[] array, int number)
         {
-            int count = 0;
+            count = 0;
             int max_count = array.Length * 2;
 
             Random random = new Random();
@@ -47,11 +53,13 @@ namespace week_1
         {
             int start = 0;
             int end = array.Length - 1;
+            count = 0;
 
             // We set the beginning and end of the number search
 
-            while(start < end)
+            while(start <= end)
             {
+                count++;
                 int mid = (start + end) / 2;
                 // We declare the mmid number
                 if(array[mid] == number)
