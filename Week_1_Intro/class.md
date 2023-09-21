@@ -10,7 +10,7 @@
 >+ **Space** -> The amount of memory an algorithm uses can vary
 >+ **Robustness** -> Some can better handle errors or unexpected inputs.
 >
->### Searching: Finding Information Efficiently
+>### Searching Finding Information Efficiently
 >
 >+ Searching is locating specific information within a larger set of data.
 >+ Access the information we need, when we need it in the most efficient way.
