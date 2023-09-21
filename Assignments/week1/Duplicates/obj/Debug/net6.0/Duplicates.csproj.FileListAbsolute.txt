@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Assignments\week1\Duplicates\bin\Debug\net6.0\Duplicates.exe
+E:\00_Programacion\Programming Advanced\Assignments\week1\Duplicates\bin\Debug\net6.0\Duplicates.deps.json
+E:\00_Programacion\Programming Advanced\Assignments\week1\Duplicates\bin\Debug\net6.0\Duplicates.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Assignments\week1\Duplicates\bin\Debug\net6.0\Duplicates.dll
+E:\00_Programacion\Programming Advanced\Assignments\week1\Duplicates\bin\Debug\net6.0\Duplicates.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week1\Duplicates\obj\Debug\net6.0\Duplicates.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\Duplicates\obj\Debug\net6.0\Duplicates.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Assignments\week1\Duplicates\obj\Debug\net6.0\Duplicates.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\Duplicates\obj\Debug\net6.0\Duplicates.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Assignments\week1\Duplicates\obj\Debug\net6.0\Duplicates.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\Duplicates\obj\Debug\net6.0\Duplicates.dll
+E:\00_Programacion\Programming Advanced\Assignments\week1\Duplicates\obj\Debug\net6.0\refint\Duplicates.dll
+E:\00_Programacion\Programming Advanced\Assignments\week1\Duplicates\obj\Debug\net6.0\Duplicates.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week1\Duplicates\obj\Debug\net6.0\Duplicates.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\Duplicates\obj\Debug\net6.0\ref\Duplicates.dll

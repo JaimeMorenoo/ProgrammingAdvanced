@@ -98,3 +98,32 @@ This search will create a start, mid ( (start + end)/2x ) and end. If the number
 // In the main.cs
 search.binary(array, 45)
 ```
+
+## Time & Space Complexity
+
+**Time**
+1. O(log n): Por ejemplo, en algoritmos de búsqueda binaria, la complejidad es O(log n), lo que significa que el tiempo o espacio requerido aumenta de forma logarítmica con el tamaño de la entrada.
+
+2. O(n): Muchos algoritmos tienen una complejidad lineal, lo que significa que el tiempo o espacio requerido aumenta de forma proporcional al tamaño de la entrada. Por ejemplo, recorrer una lista enlazada o un array.
+
+3. O(n log n): Muchos algoritmos de clasificación eficientes, como el algoritmo Quicksort o Mergesort, tienen una complejidad de O(n log n)
+
+4. O(n^2): Algunos algoritmos tienen una complejidad cuadrática, donde el tiempo o espacio requerido aumenta cuadráticamente con el tamaño de la entrada. Por ejemplo, algoritmos de ordenamiento ineficientes como Bubble Sort.
+
+5. O(2^n): Algunos algoritmos exponenciales, donde el tiempo o espacio requerido se duplica con cada adición de un solo elemento en la entrada. Por ejemplo, algunos algoritmos recursivos ineficientes.
+
+**Space**
+#### O(1) - Complejidad Espacial Constante:
+
+La notación O(1) para la complejidad espacial indica que la cantidad de memoria adicional utilizada por el algoritmo es constante, independientemente del tamaño de la entrada. Algunos ejemplos comunes de O(1) en complejidad espacial incluyen:
+
+1. Variables locales: El espacio utilizado para variables locales y parámetros de entrada. Este espacio es constante y no depende del tamaño de la entrada.
+2. Espacio para un número o un objeto: Independientemente del tamaño de la entrada, almacenar un número o una referencia a un objeto ocupa un espacio constante.
+
+### Cuándo no es O(1):
+
+1. O(n): Si tienes una estructura de datos que almacena n elementos, como un array o una lista, la complejidad espacial será O(n) porque el espacio requerido aumenta linealmente con el número de elementos.
+
+2. O(log n): En estructuras de datos como árboles balanceados, la complejidad espacial puede ser logarítmica en función del número de elementos.
+
+3. O(n^2), O(2^n): Algunos algoritmos pueden generar una cantidad significativa de datos adicionales basados en la entrada, lo que resulta en complejidades espaciales cuadráticas o exponenciales.
