@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Week_1_Intro\week_1\bin\Debug\net6.0\week_1.exe
+E:\00_Programacion\Programming Advanced\Week_1_Intro\week_1\bin\Debug\net6.0\week_1.deps.json
+E:\00_Programacion\Programming Advanced\Week_1_Intro\week_1\bin\Debug\net6.0\week_1.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Week_1_Intro\week_1\bin\Debug\net6.0\week_1.dll
+E:\00_Programacion\Programming Advanced\Week_1_Intro\week_1\bin\Debug\net6.0\week_1.pdb
+E:\00_Programacion\Programming Advanced\Week_1_Intro\week_1\obj\Debug\net6.0\week_1.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Week_1_Intro\week_1\obj\Debug\net6.0\week_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Week_1_Intro\week_1\obj\Debug\net6.0\week_1.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Week_1_Intro\week_1\obj\Debug\net6.0\week_1.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Week_1_Intro\week_1\obj\Debug\net6.0\week_1.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Week_1_Intro\week_1\obj\Debug\net6.0\week_1.dll
+E:\00_Programacion\Programming Advanced\Week_1_Intro\week_1\obj\Debug\net6.0\refint\week_1.dll
+E:\00_Programacion\Programming Advanced\Week_1_Intro\week_1\obj\Debug\net6.0\week_1.pdb
+E:\00_Programacion\Programming Advanced\Week_1_Intro\week_1\obj\Debug\net6.0\week_1.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Week_1_Intro\week_1\obj\Debug\net6.0\ref\week_1.dll
