@@ -1,17 +1,16 @@
 # Introduction Class : Searching and Big O Notation
-
->### What are Algorithms?
+### What are Algorithms?
 >+ Step by step instructions to solve an specific problem
 >+ The same problem can be often solved in multiple ways using different algorithms
->
->### Why is Algorithm Choice Important?
->
+
+### Why is Algorithm Choice Important?
+
 >+ **Eficiency** -> Some algorithsm can solve problems faster than others
 >+ **Space** -> The amount of memory an algorithm uses can vary
 >+ **Robustness** -> Some can better handle errors or unexpected inputs.
->
->### Searching Finding Information Efficiently
->
+
+## Searching: Finding Information Efficiently
+
 >+ Searching is locating specific information within a larger set of data.
 >+ Access the information we need, when we need it in the most efficient way.
 
