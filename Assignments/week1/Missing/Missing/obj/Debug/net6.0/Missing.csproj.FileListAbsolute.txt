@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Assignments\week1\Missing\Missing\bin\Debug\net6.0\Missing.exe
+E:\00_Programacion\Programming Advanced\Assignments\week1\Missing\Missing\bin\Debug\net6.0\Missing.deps.json
+E:\00_Programacion\Programming Advanced\Assignments\week1\Missing\Missing\bin\Debug\net6.0\Missing.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Assignments\week1\Missing\Missing\bin\Debug\net6.0\Missing.dll
+E:\00_Programacion\Programming Advanced\Assignments\week1\Missing\Missing\bin\Debug\net6.0\Missing.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week1\Missing\Missing\obj\Debug\net6.0\Missing.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\Missing\Missing\obj\Debug\net6.0\Missing.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Assignments\week1\Missing\Missing\obj\Debug\net6.0\Missing.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\Missing\Missing\obj\Debug\net6.0\Missing.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Assignments\week1\Missing\Missing\obj\Debug\net6.0\Missing.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\Missing\Missing\obj\Debug\net6.0\Missing.dll
+E:\00_Programacion\Programming Advanced\Assignments\week1\Missing\Missing\obj\Debug\net6.0\refint\Missing.dll
+E:\00_Programacion\Programming Advanced\Assignments\week1\Missing\Missing\obj\Debug\net6.0\Missing.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week1\Missing\Missing\obj\Debug\net6.0\Missing.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\Missing\Missing\obj\Debug\net6.0\ref\Missing.dll
