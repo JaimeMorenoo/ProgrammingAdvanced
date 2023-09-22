@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Assignments\week1\Nth Character\nth_character\bin\Debug\net6.0\nth_character.exe
+E:\00_Programacion\Programming Advanced\Assignments\week1\Nth Character\nth_character\bin\Debug\net6.0\nth_character.deps.json
+E:\00_Programacion\Programming Advanced\Assignments\week1\Nth Character\nth_character\bin\Debug\net6.0\nth_character.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Assignments\week1\Nth Character\nth_character\bin\Debug\net6.0\nth_character.dll
+E:\00_Programacion\Programming Advanced\Assignments\week1\Nth Character\nth_character\bin\Debug\net6.0\nth_character.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week1\Nth Character\nth_character\obj\Debug\net6.0\nth_character.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\Nth Character\nth_character\obj\Debug\net6.0\nth_character.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Assignments\week1\Nth Character\nth_character\obj\Debug\net6.0\nth_character.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\Nth Character\nth_character\obj\Debug\net6.0\nth_character.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Assignments\week1\Nth Character\nth_character\obj\Debug\net6.0\nth_character.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\Nth Character\nth_character\obj\Debug\net6.0\nth_character.dll
+E:\00_Programacion\Programming Advanced\Assignments\week1\Nth Character\nth_character\obj\Debug\net6.0\refint\nth_character.dll
+E:\00_Programacion\Programming Advanced\Assignments\week1\Nth Character\nth_character\obj\Debug\net6.0\nth_character.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week1\Nth Character\nth_character\obj\Debug\net6.0\nth_character.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\Nth Character\nth_character\obj\Debug\net6.0\ref\nth_character.dll

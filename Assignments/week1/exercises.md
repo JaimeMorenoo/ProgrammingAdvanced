@@ -84,4 +84,4 @@ Find all duplicates starting with a given sequence in the given file Download th
 ```
 ### Time & Space Complexity
 
-**The function search has a time complexity of O(n^2) because of the nested loops being used (foreach & count) and a space complexity of O(1) as it just uses variables for the data.**
+The function search has a **time complexity of O(n^2)** because of the nested loops being used (foreach & count) and a **space complexity of O(1)** as it just uses variables for the data.

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics.Tracing;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -41,8 +42,8 @@ namespace Duplicates
             // Time Complexity = O(n^2) & Space Complexity = O(1)
 
             StringBuilder result = new StringBuilder();
-         
-            foreach(string word in array)
+
+            /*foreach(string word in array)
             {
                 if (word.StartsWith(input))
                 {
@@ -53,9 +54,22 @@ namespace Duplicates
                        result.Append(word).Append(' ');
                     }                   
                 }
-            }
+            }*/
 
-            if (result.Length == 0)
+            array.Where(word => word.StartsWith(input))
+                .GroupBy(word => word)
+                .Where(group => group.Count() > 1)
+                .Select(group =>
+                {
+                    Console.WriteLine(group.Key);
+                    return group.Key;
+                });
+                
+
+
+
+
+            if (result.Length == 1)
             {
                 return "No duplicates found.";
             }
