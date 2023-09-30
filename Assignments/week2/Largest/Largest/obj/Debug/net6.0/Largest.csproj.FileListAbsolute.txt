@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Assignments\week2\Largest\Largest\bin\Debug\net6.0\Largest.exe
+E:\00_Programacion\Programming Advanced\Assignments\week2\Largest\Largest\bin\Debug\net6.0\Largest.deps.json
+E:\00_Programacion\Programming Advanced\Assignments\week2\Largest\Largest\bin\Debug\net6.0\Largest.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Assignments\week2\Largest\Largest\bin\Debug\net6.0\Largest.dll
+E:\00_Programacion\Programming Advanced\Assignments\week2\Largest\Largest\bin\Debug\net6.0\Largest.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week2\Largest\Largest\obj\Debug\net6.0\Largest.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Assignments\week2\Largest\Largest\obj\Debug\net6.0\Largest.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Assignments\week2\Largest\Largest\obj\Debug\net6.0\Largest.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week2\Largest\Largest\obj\Debug\net6.0\Largest.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Assignments\week2\Largest\Largest\obj\Debug\net6.0\Largest.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week2\Largest\Largest\obj\Debug\net6.0\Largest.dll
+E:\00_Programacion\Programming Advanced\Assignments\week2\Largest\Largest\obj\Debug\net6.0\refint\Largest.dll
+E:\00_Programacion\Programming Advanced\Assignments\week2\Largest\Largest\obj\Debug\net6.0\Largest.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week2\Largest\Largest\obj\Debug\net6.0\Largest.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Assignments\week2\Largest\Largest\obj\Debug\net6.0\ref\Largest.dll

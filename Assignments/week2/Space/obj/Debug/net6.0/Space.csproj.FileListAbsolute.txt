@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Assignments\week2\Space\bin\Debug\net6.0\Space.exe
+E:\00_Programacion\Programming Advanced\Assignments\week2\Space\bin\Debug\net6.0\Space.deps.json
+E:\00_Programacion\Programming Advanced\Assignments\week2\Space\bin\Debug\net6.0\Space.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Assignments\week2\Space\bin\Debug\net6.0\Space.dll
+E:\00_Programacion\Programming Advanced\Assignments\week2\Space\bin\Debug\net6.0\Space.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week2\Space\obj\Debug\net6.0\Space.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Assignments\week2\Space\obj\Debug\net6.0\Space.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Assignments\week2\Space\obj\Debug\net6.0\Space.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week2\Space\obj\Debug\net6.0\Space.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Assignments\week2\Space\obj\Debug\net6.0\Space.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week2\Space\obj\Debug\net6.0\Space.dll
+E:\00_Programacion\Programming Advanced\Assignments\week2\Space\obj\Debug\net6.0\refint\Space.dll
+E:\00_Programacion\Programming Advanced\Assignments\week2\Space\obj\Debug\net6.0\Space.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week2\Space\obj\Debug\net6.0\Space.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Assignments\week2\Space\obj\Debug\net6.0\ref\Space.dll
