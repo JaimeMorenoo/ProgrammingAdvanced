@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Assignments\week2\Wally\bin\Debug\net6.0\Wally.exe
+E:\00_Programacion\Programming Advanced\Assignments\week2\Wally\bin\Debug\net6.0\Wally.deps.json
+E:\00_Programacion\Programming Advanced\Assignments\week2\Wally\bin\Debug\net6.0\Wally.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Assignments\week2\Wally\bin\Debug\net6.0\Wally.dll
+E:\00_Programacion\Programming Advanced\Assignments\week2\Wally\bin\Debug\net6.0\Wally.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week2\Wally\obj\Debug\net6.0\Wally.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Assignments\week2\Wally\obj\Debug\net6.0\Wally.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Assignments\week2\Wally\obj\Debug\net6.0\Wally.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week2\Wally\obj\Debug\net6.0\Wally.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Assignments\week2\Wally\obj\Debug\net6.0\Wally.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week2\Wally\obj\Debug\net6.0\Wally.dll
+E:\00_Programacion\Programming Advanced\Assignments\week2\Wally\obj\Debug\net6.0\refint\Wally.dll
+E:\00_Programacion\Programming Advanced\Assignments\week2\Wally\obj\Debug\net6.0\Wally.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week2\Wally\obj\Debug\net6.0\Wally.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Assignments\week2\Wally\obj\Debug\net6.0\ref\Wally.dll
