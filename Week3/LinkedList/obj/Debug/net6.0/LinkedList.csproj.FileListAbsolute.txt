@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Week3\LinkedList\bin\Debug\net6.0\LinkedList.exe
+E:\00_Programacion\Programming Advanced\Week3\LinkedList\bin\Debug\net6.0\LinkedList.deps.json
+E:\00_Programacion\Programming Advanced\Week3\LinkedList\bin\Debug\net6.0\LinkedList.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Week3\LinkedList\bin\Debug\net6.0\LinkedList.dll
+E:\00_Programacion\Programming Advanced\Week3\LinkedList\bin\Debug\net6.0\LinkedList.pdb
+E:\00_Programacion\Programming Advanced\Week3\LinkedList\obj\Debug\net6.0\LinkedList.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Week3\LinkedList\obj\Debug\net6.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Week3\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Week3\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Week3\LinkedList\obj\Debug\net6.0\LinkedList.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Week3\LinkedList\obj\Debug\net6.0\LinkedList.dll
+E:\00_Programacion\Programming Advanced\Week3\LinkedList\obj\Debug\net6.0\refint\LinkedList.dll
+E:\00_Programacion\Programming Advanced\Week3\LinkedList\obj\Debug\net6.0\LinkedList.pdb
+E:\00_Programacion\Programming Advanced\Week3\LinkedList\obj\Debug\net6.0\LinkedList.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Week3\LinkedList\obj\Debug\net6.0\ref\LinkedList.dll

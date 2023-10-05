@@ -36,10 +36,5 @@ namespace Wally
             }
             return "Not founded";
         }
-
-        public string print(string word)
-        {
-            return word.ToString();
-        }
     }
 }
