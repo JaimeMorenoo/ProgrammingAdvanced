@@ -1,0 +1,8 @@
+E:\00_Programacion\Programming Advanced\Assignments\week1\test\bin\Debug\test.exe.config
+E:\00_Programacion\Programming Advanced\Assignments\week1\test\bin\Debug\test.exe
+E:\00_Programacion\Programming Advanced\Assignments\week1\test\bin\Debug\test.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week1\test\obj\Debug\test.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\test\obj\Debug\test.exe
+E:\00_Programacion\Programming Advanced\Assignments\week1\test\obj\Debug\test.pdb

@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Balance\obj\Debug\net6.0\03_Balance.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Balance\obj\Debug\net6.0\03_Balance.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Balance\obj\Debug\net6.0\03_Balance.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Balance\obj\Debug\net6.0\03_Balance.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Balance\obj\Debug\net6.0\03_Balance.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Balance\bin\Debug\net6.0\03_Balance.exe
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Balance\bin\Debug\net6.0\03_Balance.deps.json
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Balance\bin\Debug\net6.0\03_Balance.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Balance\bin\Debug\net6.0\03_Balance.dll
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Balance\bin\Debug\net6.0\03_Balance.pdb
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Balance\obj\Debug\net6.0\03_Balance.dll
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Balance\obj\Debug\net6.0\refint\03_Balance.dll
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Balance\obj\Debug\net6.0\03_Balance.pdb
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Balance\obj\Debug\net6.0\03_Balance.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Balance\obj\Debug\net6.0\ref\03_Balance.dll

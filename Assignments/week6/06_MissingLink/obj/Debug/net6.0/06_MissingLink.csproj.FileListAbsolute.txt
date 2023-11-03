@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_MissingLink\bin\Debug\net6.0\06_MissingLink.exe
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_MissingLink\bin\Debug\net6.0\06_MissingLink.deps.json
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_MissingLink\bin\Debug\net6.0\06_MissingLink.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_MissingLink\bin\Debug\net6.0\06_MissingLink.dll
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_MissingLink\bin\Debug\net6.0\06_MissingLink.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_MissingLink\obj\Debug\net6.0\06_MissingLink.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_MissingLink\obj\Debug\net6.0\06_MissingLink.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_MissingLink\obj\Debug\net6.0\06_MissingLink.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_MissingLink\obj\Debug\net6.0\06_MissingLink.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_MissingLink\obj\Debug\net6.0\06_MissingLink.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_MissingLink\obj\Debug\net6.0\06_MissingLink.dll
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_MissingLink\obj\Debug\net6.0\refint\06_MissingLink.dll
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_MissingLink\obj\Debug\net6.0\06_MissingLink.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_MissingLink\obj\Debug\net6.0\06_MissingLink.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_MissingLink\obj\Debug\net6.0\ref\06_MissingLink.dll

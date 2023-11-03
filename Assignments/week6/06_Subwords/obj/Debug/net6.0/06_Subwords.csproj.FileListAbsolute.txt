@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_Subwords\bin\Debug\net6.0\06_Subwords.exe
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_Subwords\bin\Debug\net6.0\06_Subwords.deps.json
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_Subwords\bin\Debug\net6.0\06_Subwords.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_Subwords\bin\Debug\net6.0\06_Subwords.dll
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_Subwords\bin\Debug\net6.0\06_Subwords.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_Subwords\obj\Debug\net6.0\06_Subwords.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_Subwords\obj\Debug\net6.0\06_Subwords.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_Subwords\obj\Debug\net6.0\06_Subwords.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_Subwords\obj\Debug\net6.0\06_Subwords.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_Subwords\obj\Debug\net6.0\06_Subwords.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_Subwords\obj\Debug\net6.0\06_Subwords.dll
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_Subwords\obj\Debug\net6.0\refint\06_Subwords.dll
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_Subwords\obj\Debug\net6.0\06_Subwords.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_Subwords\obj\Debug\net6.0\06_Subwords.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Assignments\week6\06_Subwords\obj\Debug\net6.0\ref\06_Subwords.dll

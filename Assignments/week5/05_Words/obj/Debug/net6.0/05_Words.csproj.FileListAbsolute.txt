@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Words\bin\Debug\net6.0\05_Words.exe
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Words\bin\Debug\net6.0\05_Words.deps.json
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Words\bin\Debug\net6.0\05_Words.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Words\bin\Debug\net6.0\05_Words.dll
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Words\bin\Debug\net6.0\05_Words.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Words\obj\Debug\net6.0\05_Words.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Words\obj\Debug\net6.0\05_Words.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Words\obj\Debug\net6.0\05_Words.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Words\obj\Debug\net6.0\05_Words.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Words\obj\Debug\net6.0\05_Words.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Words\obj\Debug\net6.0\05_Words.dll
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Words\obj\Debug\net6.0\refint\05_Words.dll
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Words\obj\Debug\net6.0\05_Words.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Words\obj\Debug\net6.0\05_Words.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Words\obj\Debug\net6.0\ref\05_Words.dll

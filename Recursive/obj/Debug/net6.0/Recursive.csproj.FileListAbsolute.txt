@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Recursive\bin\Debug\net6.0\Recursive.exe
+E:\00_Programacion\Programming Advanced\Recursive\bin\Debug\net6.0\Recursive.deps.json
+E:\00_Programacion\Programming Advanced\Recursive\bin\Debug\net6.0\Recursive.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Recursive\bin\Debug\net6.0\Recursive.dll
+E:\00_Programacion\Programming Advanced\Recursive\bin\Debug\net6.0\Recursive.pdb
+E:\00_Programacion\Programming Advanced\Recursive\obj\Debug\net6.0\Recursive.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Recursive\obj\Debug\net6.0\Recursive.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Recursive\obj\Debug\net6.0\Recursive.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Recursive\obj\Debug\net6.0\Recursive.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Recursive\obj\Debug\net6.0\Recursive.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Recursive\obj\Debug\net6.0\Recursive.dll
+E:\00_Programacion\Programming Advanced\Recursive\obj\Debug\net6.0\refint\Recursive.dll
+E:\00_Programacion\Programming Advanced\Recursive\obj\Debug\net6.0\Recursive.pdb
+E:\00_Programacion\Programming Advanced\Recursive\obj\Debug\net6.0\Recursive.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Recursive\obj\Debug\net6.0\ref\Recursive.dll

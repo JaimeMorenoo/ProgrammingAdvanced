@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Sum\bin\Debug\net6.0\04_Sum.exe
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Sum\bin\Debug\net6.0\04_Sum.deps.json
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Sum\bin\Debug\net6.0\04_Sum.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Sum\bin\Debug\net6.0\04_Sum.dll
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Sum\bin\Debug\net6.0\04_Sum.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Sum\obj\Debug\net6.0\04_Sum.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Sum\obj\Debug\net6.0\04_Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Sum\obj\Debug\net6.0\04_Sum.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Sum\obj\Debug\net6.0\04_Sum.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Sum\obj\Debug\net6.0\04_Sum.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Sum\obj\Debug\net6.0\04_Sum.dll
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Sum\obj\Debug\net6.0\refint\04_Sum.dll
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Sum\obj\Debug\net6.0\04_Sum.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Sum\obj\Debug\net6.0\04_Sum.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Sum\obj\Debug\net6.0\ref\04_Sum.dll

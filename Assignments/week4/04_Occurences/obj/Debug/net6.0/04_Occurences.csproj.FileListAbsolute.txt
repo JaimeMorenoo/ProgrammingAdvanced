@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Occurences\bin\Debug\net6.0\04_Occurences.exe
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Occurences\bin\Debug\net6.0\04_Occurences.deps.json
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Occurences\bin\Debug\net6.0\04_Occurences.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Occurences\bin\Debug\net6.0\04_Occurences.dll
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Occurences\bin\Debug\net6.0\04_Occurences.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Occurences\obj\Debug\net6.0\04_Occurences.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Occurences\obj\Debug\net6.0\04_Occurences.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Occurences\obj\Debug\net6.0\04_Occurences.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Occurences\obj\Debug\net6.0\04_Occurences.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Occurences\obj\Debug\net6.0\04_Occurences.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Occurences\obj\Debug\net6.0\04_Occurences.dll
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Occurences\obj\Debug\net6.0\refint\04_Occurences.dll
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Occurences\obj\Debug\net6.0\04_Occurences.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Occurences\obj\Debug\net6.0\04_Occurences.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Occurences\obj\Debug\net6.0\ref\04_Occurences.dll

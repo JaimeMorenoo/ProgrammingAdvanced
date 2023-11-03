@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Magic\bin\Debug\net6.0\05_Magic.exe
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Magic\bin\Debug\net6.0\05_Magic.deps.json
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Magic\bin\Debug\net6.0\05_Magic.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Magic\bin\Debug\net6.0\05_Magic.dll
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Magic\bin\Debug\net6.0\05_Magic.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Magic\obj\Debug\net6.0\05_Magic.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Magic\obj\Debug\net6.0\05_Magic.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Magic\obj\Debug\net6.0\05_Magic.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Magic\obj\Debug\net6.0\05_Magic.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Magic\obj\Debug\net6.0\05_Magic.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Magic\obj\Debug\net6.0\05_Magic.dll
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Magic\obj\Debug\net6.0\refint\05_Magic.dll
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Magic\obj\Debug\net6.0\05_Magic.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Magic\obj\Debug\net6.0\05_Magic.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Assignments\week5\05_Magic\obj\Debug\net6.0\ref\05_Magic.dll

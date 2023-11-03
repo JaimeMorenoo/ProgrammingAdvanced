@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Assignments\week1\Module_01\bin\Debug\net6.0\Module_01.exe
+E:\00_Programacion\Programming Advanced\Assignments\week1\Module_01\bin\Debug\net6.0\Module_01.deps.json
+E:\00_Programacion\Programming Advanced\Assignments\week1\Module_01\bin\Debug\net6.0\Module_01.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Assignments\week1\Module_01\bin\Debug\net6.0\Module_01.dll
+E:\00_Programacion\Programming Advanced\Assignments\week1\Module_01\bin\Debug\net6.0\Module_01.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week1\Module_01\obj\Debug\net6.0\Module_01.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\Module_01\obj\Debug\net6.0\Module_01.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Assignments\week1\Module_01\obj\Debug\net6.0\Module_01.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\Module_01\obj\Debug\net6.0\Module_01.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Assignments\week1\Module_01\obj\Debug\net6.0\Module_01.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\Module_01\obj\Debug\net6.0\Module_01.dll
+E:\00_Programacion\Programming Advanced\Assignments\week1\Module_01\obj\Debug\net6.0\refint\Module_01.dll
+E:\00_Programacion\Programming Advanced\Assignments\week1\Module_01\obj\Debug\net6.0\Module_01.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week1\Module_01\obj\Debug\net6.0\Module_01.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Assignments\week1\Module_01\obj\Debug\net6.0\ref\Module_01.dll

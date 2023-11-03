@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Multiplication\bin\Debug\net6.0\04_Multiplication.exe
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Multiplication\bin\Debug\net6.0\04_Multiplication.deps.json
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Multiplication\bin\Debug\net6.0\04_Multiplication.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Multiplication\bin\Debug\net6.0\04_Multiplication.dll
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Multiplication\bin\Debug\net6.0\04_Multiplication.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Multiplication\obj\Debug\net6.0\04_Multiplication.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Multiplication\obj\Debug\net6.0\04_Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Multiplication\obj\Debug\net6.0\04_Multiplication.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Multiplication\obj\Debug\net6.0\04_Multiplication.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Multiplication\obj\Debug\net6.0\04_Multiplication.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Multiplication\obj\Debug\net6.0\04_Multiplication.dll
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Multiplication\obj\Debug\net6.0\refint\04_Multiplication.dll
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Multiplication\obj\Debug\net6.0\04_Multiplication.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Multiplication\obj\Debug\net6.0\04_Multiplication.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Multiplication\obj\Debug\net6.0\ref\04_Multiplication.dll

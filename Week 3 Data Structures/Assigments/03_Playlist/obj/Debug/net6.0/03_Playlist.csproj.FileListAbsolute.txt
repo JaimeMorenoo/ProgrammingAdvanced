@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Playlist\bin\Debug\net6.0\03_Playlist.exe
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Playlist\bin\Debug\net6.0\03_Playlist.deps.json
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Playlist\bin\Debug\net6.0\03_Playlist.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Playlist\bin\Debug\net6.0\03_Playlist.dll
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Playlist\bin\Debug\net6.0\03_Playlist.pdb
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Playlist\obj\Debug\net6.0\03_Playlist.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Playlist\obj\Debug\net6.0\03_Playlist.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Playlist\obj\Debug\net6.0\03_Playlist.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Playlist\obj\Debug\net6.0\03_Playlist.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Playlist\obj\Debug\net6.0\03_Playlist.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Playlist\obj\Debug\net6.0\03_Playlist.dll
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Playlist\obj\Debug\net6.0\refint\03_Playlist.dll
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Playlist\obj\Debug\net6.0\03_Playlist.pdb
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Playlist\obj\Debug\net6.0\03_Playlist.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Playlist\obj\Debug\net6.0\ref\03_Playlist.dll

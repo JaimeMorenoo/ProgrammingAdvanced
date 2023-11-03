@@ -1,19 +1,31 @@
-﻿namespace Space
+﻿using System.Runtime.InteropServices;
+
+namespace Space
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string[] array = {"TS: 6, fragment: \"system\" ",
-                    "TS: 2, fragment: \"Hello\"",
-                    "TS: 4, fragment: \"our\"",
-                    "TS: 1, fragment: \"Interstellar",
-                    "TS: 3, fragment: \"from",
-                    "TS: 5, fragment: \"solar"};
+            string input = " ";
+            string split = "";
+            while(input != "")
+            {
+                
+                input = Console.ReadLine();
+                if(input != "")
+                {
+                    split += input + "!";
+                }
+                
+                
+            }
+            split = split.Trim().Remove(split.Length - 1, 1);
+            string[] output = split.Split("!");
+
 
             Space space = new Space();
 
-            space.order(array);
+            space.order(output);
         }
     }
 }

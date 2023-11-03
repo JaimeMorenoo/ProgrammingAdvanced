@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Unique\bin\Debug\net6.0\04_Unique.exe
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Unique\bin\Debug\net6.0\04_Unique.deps.json
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Unique\bin\Debug\net6.0\04_Unique.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Unique\bin\Debug\net6.0\04_Unique.dll
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Unique\bin\Debug\net6.0\04_Unique.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Unique\obj\Debug\net6.0\04_Unique.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Unique\obj\Debug\net6.0\04_Unique.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Unique\obj\Debug\net6.0\04_Unique.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Unique\obj\Debug\net6.0\04_Unique.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Unique\obj\Debug\net6.0\04_Unique.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Unique\obj\Debug\net6.0\04_Unique.dll
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Unique\obj\Debug\net6.0\refint\04_Unique.dll
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Unique\obj\Debug\net6.0\04_Unique.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Unique\obj\Debug\net6.0\04_Unique.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Unique\obj\Debug\net6.0\ref\04_Unique.dll

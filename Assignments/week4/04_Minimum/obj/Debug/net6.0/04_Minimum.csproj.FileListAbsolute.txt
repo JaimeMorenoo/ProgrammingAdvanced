@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Minimum\bin\Debug\net6.0\04_Minimum.exe
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Minimum\bin\Debug\net6.0\04_Minimum.deps.json
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Minimum\bin\Debug\net6.0\04_Minimum.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Minimum\bin\Debug\net6.0\04_Minimum.dll
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Minimum\bin\Debug\net6.0\04_Minimum.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Minimum\obj\Debug\net6.0\04_Minimum.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Minimum\obj\Debug\net6.0\04_Minimum.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Minimum\obj\Debug\net6.0\04_Minimum.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Minimum\obj\Debug\net6.0\04_Minimum.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Minimum\obj\Debug\net6.0\04_Minimum.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Minimum\obj\Debug\net6.0\04_Minimum.dll
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Minimum\obj\Debug\net6.0\refint\04_Minimum.dll
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Minimum\obj\Debug\net6.0\04_Minimum.pdb
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Minimum\obj\Debug\net6.0\04_Minimum.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Assignments\week4\04_Minimum\obj\Debug\net6.0\ref\04_Minimum.dll

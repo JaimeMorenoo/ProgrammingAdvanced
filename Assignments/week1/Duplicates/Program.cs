@@ -1,17 +1,15 @@
-﻿namespace Duplicates
+﻿using System;
+namespace Module_01;
+
+internal class Program
 {
-    internal class Program
+  
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            string file = "words.txt";
+        string file = "words.txt"; 
+        Assignment duplicates = new Assignment();
+        string input = Console.ReadLine();
+        Console.WriteLine(duplicates.Duplicates(input, "words.txt"));
 
-            string[] array = File.ReadAllLines(file);
-
-            Duplicates duplicates = new Duplicates();
-            //Console.WriteLine(duplicates.naive(array, "aa"));
-            Console.WriteLine(duplicates.search(array, "aa"));
-            
-        }
     }
 }

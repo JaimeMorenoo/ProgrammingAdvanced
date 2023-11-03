@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\00_Programacion\\Programming Advanced\\Week3\\LinkedList\\LinkedList.csproj",
+      "projectUniqueName": "E:\\00_Programacion\\Programming Advanced\\Week 3 Data Structures\\LinkedList\\LinkedList.csproj",
       "projectName": "LinkedList",
-      "projectPath": "E:\\00_Programacion\\Programming Advanced\\Week3\\LinkedList\\LinkedList.csproj",
+      "projectPath": "E:\\00_Programacion\\Programming Advanced\\Week 3 Data Structures\\LinkedList\\LinkedList.csproj",
       "packagesPath": "C:\\Users\\Usuari\\.nuget\\packages\\",
-      "outputPath": "E:\\00_Programacion\\Programming Advanced\\Week3\\LinkedList\\obj\\",
+      "outputPath": "E:\\00_Programacion\\Programming Advanced\\Week 3 Data Structures\\LinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuari\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Parking\bin\Debug\net6.0\03_Parking.exe
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Parking\bin\Debug\net6.0\03_Parking.deps.json
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Parking\bin\Debug\net6.0\03_Parking.runtimeconfig.json
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Parking\bin\Debug\net6.0\03_Parking.dll
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Parking\bin\Debug\net6.0\03_Parking.pdb
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Parking\obj\Debug\net6.0\03_Parking.csproj.AssemblyReference.cache
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Parking\obj\Debug\net6.0\03_Parking.GeneratedMSBuildEditorConfig.editorconfig
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Parking\obj\Debug\net6.0\03_Parking.AssemblyInfoInputs.cache
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Parking\obj\Debug\net6.0\03_Parking.AssemblyInfo.cs
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Parking\obj\Debug\net6.0\03_Parking.csproj.CoreCompileInputs.cache
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Parking\obj\Debug\net6.0\03_Parking.dll
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Parking\obj\Debug\net6.0\refint\03_Parking.dll
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Parking\obj\Debug\net6.0\03_Parking.pdb
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Parking\obj\Debug\net6.0\03_Parking.genruntimeconfig.cache
+E:\00_Programacion\Programming Advanced\Week 3 Data Structures\Assigments\03_Parking\obj\Debug\net6.0\ref\03_Parking.dll

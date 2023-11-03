@@ -59,6 +59,7 @@ namespace Space
 
         public void order(string[] array)
         {
+
             for(int i = array.Length - 1; i >= 0; i--)
             {
                 for(int j = 0; j < i; j++)
